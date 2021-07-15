@@ -1,0 +1,2 @@
+.box,.Message{min-height:300px;box-shadow:0 0 3px 1px #bdc3c7;background:#fff;border-radius:5px;padding:10px}.Message{display:flex;flex-direction:column}.Message .title{display:flex;justify-content:space-between;align-items:center}.Message .title .right{color:#3498db}.Message .fgx{margin:10px 0}.Message .Contents{flex:1 1;min-height:200px;overflow:auto;background-color:#f4f4f4;padding:5px}
+/*# sourceMappingURL=16.6c77ba45.chunk.css.map */
